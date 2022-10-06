@@ -118,7 +118,7 @@ section > div {
 .experience-cards {
   margin: 0 auto;
 }
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 650px) {
   .experience-cards {
     overflow: hidden;
     padding-left: 30px;
@@ -218,7 +218,7 @@ ul ol {
     border-top-left-radius: 13px;
     border-bottom-left-radius: 13px;
     border-top-right-radius: 0;
-    max-width: 300px;
+    max-width: 350px;
     height: inherit;
     width: 100%;
   }
