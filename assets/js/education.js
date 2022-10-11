@@ -10,15 +10,21 @@ const moocscards = [
     moocLink: "https://www.coursera.org/learn/server-side-nodejs",
   },
   {
-    title: "XML-AJAX",
+    title: "C#",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    moocLink: "https://www.udemy.com/course/csharpbasics/",
   },
   {
     title: "Data Structures & Algorithms",
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink:
       "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+  },
+  {
+    title: "React 17 and interactive UIs",
+    cardImage: "assets/images/education-page/pluralsight.png",
+    moocLink:
+      "https://www.pluralsight.com/courses/react-js-getting-started",
   },
 ];
 
