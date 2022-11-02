@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Zeng's Story",
-    cardImage: "assets/images/project-page/zengstory.jpg",
+    cardImage: "assets/images/project-page/zengstory.png",
     description: "Website about my family.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "http://chestory.co/",
