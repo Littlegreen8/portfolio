@@ -18,7 +18,7 @@ const projects = [
     cardImage: "assets/images/project-page/zengstory.png",
     description: "Website about my family.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
-    Previewlink: "http://chestory.co/",
+    Previewlink: "https://spicy-toy-878.notion.site/Zeng-s-Story-54314bde553647aab9f9543c295405a5",
     Githublink: "https://github.com/Littlegreen8/zengstory",
   },
   {
